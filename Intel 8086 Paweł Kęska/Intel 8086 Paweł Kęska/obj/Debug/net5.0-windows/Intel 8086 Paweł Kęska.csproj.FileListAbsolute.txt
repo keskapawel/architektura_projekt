@@ -1,0 +1,54 @@
+C:\Users\danie\OneDrive\Pulpit\New folder\Paweł Kęska\Intel 8086 Paweł Kęska\Intel 8086 Paweł Kęska\bin\Debug\net5.0-windows\Intel 8086 Paweł Kęska.exe
+C:\Users\danie\OneDrive\Pulpit\New folder\Paweł Kęska\Intel 8086 Paweł Kęska\Intel 8086 Paweł Kęska\bin\Debug\net5.0-windows\Intel 8086 Paweł Kęska.deps.json
+C:\Users\danie\OneDrive\Pulpit\New folder\Paweł Kęska\Intel 8086 Paweł Kęska\Intel 8086 Paweł Kęska\bin\Debug\net5.0-windows\Intel 8086 Paweł Kęska.runtimeconfig.json
+C:\Users\danie\OneDrive\Pulpit\New folder\Paweł Kęska\Intel 8086 Paweł Kęska\Intel 8086 Paweł Kęska\bin\Debug\net5.0-windows\Intel 8086 Paweł Kęska.runtimeconfig.dev.json
+C:\Users\danie\OneDrive\Pulpit\New folder\Paweł Kęska\Intel 8086 Paweł Kęska\Intel 8086 Paweł Kęska\bin\Debug\net5.0-windows\Intel 8086 Paweł Kęska.dll
+C:\Users\danie\OneDrive\Pulpit\New folder\Paweł Kęska\Intel 8086 Paweł Kęska\Intel 8086 Paweł Kęska\bin\Debug\net5.0-windows\ref\Intel 8086 Paweł Kęska.dll
+C:\Users\danie\OneDrive\Pulpit\New folder\Paweł Kęska\Intel 8086 Paweł Kęska\Intel 8086 Paweł Kęska\bin\Debug\net5.0-windows\Intel 8086 Paweł Kęska.pdb
+C:\Users\danie\OneDrive\Pulpit\New folder\Paweł Kęska\Intel 8086 Paweł Kęska\Intel 8086 Paweł Kęska\obj\Debug\net5.0-windows\Intel 8086 Paweł Kęska.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Pulpit\New folder\Paweł Kęska\Intel 8086 Paweł Kęska\Intel 8086 Paweł Kęska\obj\Debug\net5.0-windows\Intel_8086_Paweł_Kęska.Form1.resources
+C:\Users\danie\OneDrive\Pulpit\New folder\Paweł Kęska\Intel 8086 Paweł Kęska\Intel 8086 Paweł Kęska\obj\Debug\net5.0-windows\Intel 8086 Paweł Kęska.csproj.GenerateResource.cache
+C:\Users\danie\OneDrive\Pulpit\New folder\Paweł Kęska\Intel 8086 Paweł Kęska\Intel 8086 Paweł Kęska\obj\Debug\net5.0-windows\Intel 8086 Paweł Kęska.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Pulpit\New folder\Paweł Kęska\Intel 8086 Paweł Kęska\Intel 8086 Paweł Kęska\obj\Debug\net5.0-windows\Intel 8086 Paweł Kęska.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Pulpit\New folder\Paweł Kęska\Intel 8086 Paweł Kęska\Intel 8086 Paweł Kęska\obj\Debug\net5.0-windows\Intel 8086 Paweł Kęska.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Pulpit\New folder\Paweł Kęska\Intel 8086 Paweł Kęska\Intel 8086 Paweł Kęska\obj\Debug\net5.0-windows\Intel 8086 Paweł Kęska.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Pulpit\New folder\Paweł Kęska\Intel 8086 Paweł Kęska\Intel 8086 Paweł Kęska\obj\Debug\net5.0-windows\Intel 8086 Paweł Kęska.dll
+C:\Users\danie\OneDrive\Pulpit\New folder\Paweł Kęska\Intel 8086 Paweł Kęska\Intel 8086 Paweł Kęska\obj\Debug\net5.0-windows\ref\Intel 8086 Paweł Kęska.dll
+C:\Users\danie\OneDrive\Pulpit\New folder\Paweł Kęska\Intel 8086 Paweł Kęska\Intel 8086 Paweł Kęska\obj\Debug\net5.0-windows\Intel 8086 Paweł Kęska.pdb
+C:\Users\danie\OneDrive\Pulpit\New folder\Paweł Kęska\Intel 8086 Paweł Kęska\Intel 8086 Paweł Kęska\obj\Debug\net5.0-windows\Intel 8086 Paweł Kęska.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Trash\Architektura\New folder\Paweł Kęska\Intel 8086 Paweł Kęska\Intel 8086 Paweł Kęska\bin\Debug\net5.0-windows\Intel 8086 Paweł Kęska.exe
+C:\Users\danie\OneDrive\Trash\Architektura\New folder\Paweł Kęska\Intel 8086 Paweł Kęska\Intel 8086 Paweł Kęska\bin\Debug\net5.0-windows\Intel 8086 Paweł Kęska.deps.json
+C:\Users\danie\OneDrive\Trash\Architektura\New folder\Paweł Kęska\Intel 8086 Paweł Kęska\Intel 8086 Paweł Kęska\bin\Debug\net5.0-windows\Intel 8086 Paweł Kęska.runtimeconfig.json
+C:\Users\danie\OneDrive\Trash\Architektura\New folder\Paweł Kęska\Intel 8086 Paweł Kęska\Intel 8086 Paweł Kęska\bin\Debug\net5.0-windows\Intel 8086 Paweł Kęska.runtimeconfig.dev.json
+C:\Users\danie\OneDrive\Trash\Architektura\New folder\Paweł Kęska\Intel 8086 Paweł Kęska\Intel 8086 Paweł Kęska\bin\Debug\net5.0-windows\Intel 8086 Paweł Kęska.dll
+C:\Users\danie\OneDrive\Trash\Architektura\New folder\Paweł Kęska\Intel 8086 Paweł Kęska\Intel 8086 Paweł Kęska\bin\Debug\net5.0-windows\ref\Intel 8086 Paweł Kęska.dll
+C:\Users\danie\OneDrive\Trash\Architektura\New folder\Paweł Kęska\Intel 8086 Paweł Kęska\Intel 8086 Paweł Kęska\bin\Debug\net5.0-windows\Intel 8086 Paweł Kęska.pdb
+C:\Users\danie\OneDrive\Trash\Architektura\New folder\Paweł Kęska\Intel 8086 Paweł Kęska\Intel 8086 Paweł Kęska\obj\Debug\net5.0-windows\Intel 8086 Paweł Kęska.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Trash\Architektura\New folder\Paweł Kęska\Intel 8086 Paweł Kęska\Intel 8086 Paweł Kęska\obj\Debug\net5.0-windows\Intel_8086_Paweł_Kęska.Form1.resources
+C:\Users\danie\OneDrive\Trash\Architektura\New folder\Paweł Kęska\Intel 8086 Paweł Kęska\Intel 8086 Paweł Kęska\obj\Debug\net5.0-windows\Intel 8086 Paweł Kęska.csproj.GenerateResource.cache
+C:\Users\danie\OneDrive\Trash\Architektura\New folder\Paweł Kęska\Intel 8086 Paweł Kęska\Intel 8086 Paweł Kęska\obj\Debug\net5.0-windows\Intel 8086 Paweł Kęska.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Trash\Architektura\New folder\Paweł Kęska\Intel 8086 Paweł Kęska\Intel 8086 Paweł Kęska\obj\Debug\net5.0-windows\Intel 8086 Paweł Kęska.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Trash\Architektura\New folder\Paweł Kęska\Intel 8086 Paweł Kęska\Intel 8086 Paweł Kęska\obj\Debug\net5.0-windows\Intel 8086 Paweł Kęska.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Trash\Architektura\New folder\Paweł Kęska\Intel 8086 Paweł Kęska\Intel 8086 Paweł Kęska\obj\Debug\net5.0-windows\Intel 8086 Paweł Kęska.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Trash\Architektura\New folder\Paweł Kęska\Intel 8086 Paweł Kęska\Intel 8086 Paweł Kęska\obj\Debug\net5.0-windows\Intel 8086 Paweł Kęska.dll
+C:\Users\danie\OneDrive\Trash\Architektura\New folder\Paweł Kęska\Intel 8086 Paweł Kęska\Intel 8086 Paweł Kęska\obj\Debug\net5.0-windows\ref\Intel 8086 Paweł Kęska.dll
+C:\Users\danie\OneDrive\Trash\Architektura\New folder\Paweł Kęska\Intel 8086 Paweł Kęska\Intel 8086 Paweł Kęska\obj\Debug\net5.0-windows\Intel 8086 Paweł Kęska.pdb
+C:\Users\danie\OneDrive\Trash\Architektura\New folder\Paweł Kęska\Intel 8086 Paweł Kęska\Intel 8086 Paweł Kęska\obj\Debug\net5.0-windows\Intel 8086 Paweł Kęska.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Pulpit\Paweł Kęska\Intel 8086 Paweł Kęska\Intel 8086 Paweł Kęska\bin\Debug\net5.0-windows\Intel 8086 Paweł Kęska.exe
+C:\Users\danie\OneDrive\Pulpit\Paweł Kęska\Intel 8086 Paweł Kęska\Intel 8086 Paweł Kęska\bin\Debug\net5.0-windows\Intel 8086 Paweł Kęska.deps.json
+C:\Users\danie\OneDrive\Pulpit\Paweł Kęska\Intel 8086 Paweł Kęska\Intel 8086 Paweł Kęska\bin\Debug\net5.0-windows\Intel 8086 Paweł Kęska.runtimeconfig.json
+C:\Users\danie\OneDrive\Pulpit\Paweł Kęska\Intel 8086 Paweł Kęska\Intel 8086 Paweł Kęska\bin\Debug\net5.0-windows\Intel 8086 Paweł Kęska.runtimeconfig.dev.json
+C:\Users\danie\OneDrive\Pulpit\Paweł Kęska\Intel 8086 Paweł Kęska\Intel 8086 Paweł Kęska\bin\Debug\net5.0-windows\Intel 8086 Paweł Kęska.dll
+C:\Users\danie\OneDrive\Pulpit\Paweł Kęska\Intel 8086 Paweł Kęska\Intel 8086 Paweł Kęska\bin\Debug\net5.0-windows\ref\Intel 8086 Paweł Kęska.dll
+C:\Users\danie\OneDrive\Pulpit\Paweł Kęska\Intel 8086 Paweł Kęska\Intel 8086 Paweł Kęska\bin\Debug\net5.0-windows\Intel 8086 Paweł Kęska.pdb
+C:\Users\danie\OneDrive\Pulpit\Paweł Kęska\Intel 8086 Paweł Kęska\Intel 8086 Paweł Kęska\obj\Debug\net5.0-windows\Intel 8086 Paweł Kęska.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Pulpit\Paweł Kęska\Intel 8086 Paweł Kęska\Intel 8086 Paweł Kęska\obj\Debug\net5.0-windows\Intel_8086_Paweł_Kęska.Form1.resources
+C:\Users\danie\OneDrive\Pulpit\Paweł Kęska\Intel 8086 Paweł Kęska\Intel 8086 Paweł Kęska\obj\Debug\net5.0-windows\Intel 8086 Paweł Kęska.csproj.GenerateResource.cache
+C:\Users\danie\OneDrive\Pulpit\Paweł Kęska\Intel 8086 Paweł Kęska\Intel 8086 Paweł Kęska\obj\Debug\net5.0-windows\Intel 8086 Paweł Kęska.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Pulpit\Paweł Kęska\Intel 8086 Paweł Kęska\Intel 8086 Paweł Kęska\obj\Debug\net5.0-windows\Intel 8086 Paweł Kęska.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Pulpit\Paweł Kęska\Intel 8086 Paweł Kęska\Intel 8086 Paweł Kęska\obj\Debug\net5.0-windows\Intel 8086 Paweł Kęska.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Pulpit\Paweł Kęska\Intel 8086 Paweł Kęska\Intel 8086 Paweł Kęska\obj\Debug\net5.0-windows\Intel 8086 Paweł Kęska.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Pulpit\Paweł Kęska\Intel 8086 Paweł Kęska\Intel 8086 Paweł Kęska\obj\Debug\net5.0-windows\Intel 8086 Paweł Kęska.dll
+C:\Users\danie\OneDrive\Pulpit\Paweł Kęska\Intel 8086 Paweł Kęska\Intel 8086 Paweł Kęska\obj\Debug\net5.0-windows\ref\Intel 8086 Paweł Kęska.dll
+C:\Users\danie\OneDrive\Pulpit\Paweł Kęska\Intel 8086 Paweł Kęska\Intel 8086 Paweł Kęska\obj\Debug\net5.0-windows\Intel 8086 Paweł Kęska.pdb
+C:\Users\danie\OneDrive\Pulpit\Paweł Kęska\Intel 8086 Paweł Kęska\Intel 8086 Paweł Kęska\obj\Debug\net5.0-windows\Intel 8086 Paweł Kęska.genruntimeconfig.cache
